@@ -1,8 +1,10 @@
-Hi, i`m Dimitar Stoyanov
+Hi, i`m Dimitar Stoyanov.
+I've recently been learning JS as well as basic operations in HTML and React.
+I have extensive experience in the field of telecommunications and direct sales - more than 10 years.
+In my spare time I am interested in football and movies.
 
-💻 I`m learning JS from six months.
+You can find me:
 
-
-You can find me in facebook - https://www.facebook.com/dimityr.stoyanov.9/
+![facebook baner](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/499e4771-5814-4209-affa-b489c4f3a318) - [HERE](https://www.facebook.com/dimityr.stoyanov.9)
 
 
