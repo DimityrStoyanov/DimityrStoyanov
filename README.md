@@ -14,4 +14,7 @@ You can find me:
 
 ![instagram logo](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/8d6c4d22-d68f-4d64-b6a2-8f17e7daa655) - [HERE](https://www.instagram.com/dimityrstoyanov/?hl=bg)
 
+![imdb banner](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/4d740918-c57b-4efc-9296-dae2504d2060) - [HERE](https://www.imdb.com/user/ur23734658/?ref_=nv_usr_prof_2)
+
+
 
