@@ -12,9 +12,7 @@ You can find me:
 
 ![linkedin logo](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/e5f4f6a3-2a8e-417a-a325-7371d7197ca7) - [HERE](https://www.linkedin.com/in/dimitar-stoyanov-688b0121a/)
 
-![instagram logo](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/8d6c4d22-d68f-4d64-b6a2-8f17e7daa655) - [HERE](https://www.instagram.com/dimityrstoyanov/?hl=bg)
 
-![imdb banner](https://github.com/DimityrStoyanov/DimityrStoyanov/assets/145485036/4d740918-c57b-4efc-9296-dae2504d2060) - [HERE](https://www.imdb.com/user/ur23734658/?ref_=nv_usr_prof_2)
 
 
 
